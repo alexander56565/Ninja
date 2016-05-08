@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\Ninja\Ninja\Ninja\bin\Debug\Ninja.exe.config
+C:\Users\User\Desktop\Ninja\Ninja\Ninja\obj\Debug\Ninja.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Ninja\Ninja\Ninja\bin\Debug\Ninja.exe
+C:\Users\User\Desktop\Ninja\Ninja\Ninja\bin\Debug\Ninja.pdb
+C:\Users\User\Desktop\Ninja\Ninja\Ninja\obj\Debug\Ninja.exe
+C:\Users\User\Desktop\Ninja\Ninja\Ninja\obj\Debug\Ninja.pdb
+C:\Users\Sasho\Desktop\Ninja\Ninja\Ninja\bin\Debug\Ninja.exe.config
+C:\Users\Sasho\Desktop\Ninja\Ninja\Ninja\obj\Debug\Ninja.exe
+C:\Users\Sasho\Desktop\Ninja\Ninja\Ninja\obj\Debug\Ninja.pdb
+C:\Users\Sasho\Desktop\Ninja\Ninja\Ninja\bin\Debug\Ninja.exe
+C:\Users\Sasho\Desktop\Ninja\Ninja\Ninja\bin\Debug\Ninja.pdb
+C:\Users\Sasho\Desktop\Ninja\Ninja\Ninja\obj\Debug\Ninja.csprojResolveAssemblyReference.cache
+C:\Users\Sasho\Desktop\Nin\Ninja\bin\Debug\Ninja.exe.config
+C:\Users\Sasho\Desktop\Nin\Ninja\obj\Debug\Ninja.exe
